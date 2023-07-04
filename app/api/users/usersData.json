@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "profile_type": "1",
+            "role": "admin",
+            "portal_role_name": "Administrator",
+            "active": true,
+            "zpuid": "176393000000028003",
+            "project_profile_id": "176393000000028362",
+            "profile_id": "176393000000028362",
+            "name": "Geetika Sharma",
+            "portal_profile_name": "Portal Owner",
+            "portal_role_id": "176393000000028005",
+            "id": "60022279557",
+            "email": "geetika@technocratshorizons.com",
+            "chat_access": true,
+            "is_resource": false
+        },
+        {
+            "profile_type": "2",
+            "role": "Admin",
+            "portal_role_name": "Administrator",
+            "active": true,
+            "zpuid": "176393000000034029",
+            "project_profile_id": "176393000000028365",
+            "profile_id": "176393000000028365",
+            "name": "qwewq",
+            "portal_profile_name": "Admin",
+            "portal_role_id": "176393000000028005",
+            "id": "2",
+            "email": "qwewq@gmail.com",
+            "chat_access": true,
+            "is_resource": false
+        }
+    ]
+}
